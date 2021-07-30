@@ -12,7 +12,7 @@ steps:
         from_secret: BOT_API_KEY
       GIT_SECRET: 
         from_secret: GIT_API_KEY
-    image: fadlyas/kernel_dockerfile:latest
+    image: vcyzteen/ubuntu:latest
     name: ©TwT
     trigger: 
       branch: 
